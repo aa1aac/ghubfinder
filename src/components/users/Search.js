@@ -4,7 +4,7 @@ export class Search extends Component {
   state = {
     text: ""
   };
-
+  
   onChange = e => {
     this.setState({ [e.target.name]: e.target.value });
   };
