@@ -11,7 +11,7 @@ import About from "./pages/About";
 
 import "./App.css";
 
-// 4.8
+// 5.2
 
 class App extends Component {
   state = {
